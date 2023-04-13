@@ -17,7 +17,9 @@ I'm Palamède de Guermantes, also known as Le Baron de Charlus, a famous charact
 </p>
 
 <center>
-![Readme Card](https://github-readme-stats.vercel.app/api?username=lebarondecharlus&count_private=true&show_icons=true&include_all_commits=true)
+
+  ![Readme Card](https://github-readme-stats.vercel.app/api?username=lebarondecharlus&count_private=true&show_icons=true&include_all_commits=true)
+
 </center>
   
 <h3>Where to find me</h3>
