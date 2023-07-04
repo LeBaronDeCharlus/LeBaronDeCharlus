@@ -16,8 +16,6 @@ I'm Palamède de Guermantes, also known as Le Baron de Charlus, a famous charact
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
-  ![Readme Card](https://github-readme-stats.vercel.app/api?username=lebarondecharlus&count_private=true&show_icons=true&include_all_commits=true)
-
 <h3>Where to find me</h3>
 <p><a href="https://github.com/lebarondecharlus" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/barondecharlus" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@Kaderovski" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
